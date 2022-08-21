@@ -1,0 +1,19 @@
+
+body{
+    margin: 0 auto;
+}
+.top-banner{
+    display: flex;
+    
+}
+.one-half{
+    width: 50%;
+    padding: 5%;
+}
+.right-half{
+    text-align: center;
+    width: 50%;
+}
+.one-half img{
+    width: 80%;
+  }
